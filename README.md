@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spacekailiang
 - 👀 I’m interested in CGCV
-- 🌱 I’m currently learning C++ at NYU Tandon
+- 🇸🇬 I’m currently a Engineering Design at NUS
 - 💞️ I’m looking to collaborate on new project ideas
 - 📫 How to reach me lkhuanginfo@gmail.com
 
